@@ -10,6 +10,7 @@ Pong is one of the earliest arcade video games. It is a table tennis sports game
 `
 
 ### 📝 ToDo
+* [X] Upload project
 * [X] Add score
 * [X] Add main menu
 * [ ] Add sounds
