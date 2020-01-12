@@ -1,3 +1,7 @@
+# Pong.py coded by Sammwy
+# https://github.com/sammwyy/Pong.py
+# Twitter: @Sammwy_
+
 # Import python's libs and pygame
 import os, sys, pygame
 from random import randint
